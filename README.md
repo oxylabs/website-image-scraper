@@ -1,16 +1,16 @@
-# Website-Image Scraper API
+# Website Image Scraper API
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Website-Image Scraper](https://oxylabs.io/products/scraper-api/web/website-image-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Website-Image website effortlessly. This brief guide explains how an Website-Image Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Website Image Scraper](https://oxylabs.io/products/scraper-api/web/website-image-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any website effortlessly. This brief guide explains how a Website Image Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Website-Image results by providing your own URLs to our service. We can return the HTML for any Website-Image page you like.
+You can get image results by providing your own URLs to our service. We can return the HTML for any page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Website-Image page.
+The example below illustrates how you can get HTML with images from https://oxylabs.io/blog URL.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Website-Image Scraper, you can seamlessly extract public data from any of the chosen Website-Image web pages. Gather essential details pertinent to your interests, say, intricate artwork details, photographer's information, or image descriptions, to understand the prevailing trends and stay one step ahead in your field. For any queries or concerns, our support team is at your service through live chat or you can also reach out to us at hello@oxylabs.io.
+With our Website Image Scraper, you can seamlessly extract image data from any of the chosen web pages. Gather essential details pertinent to your interests, say, intricate artwork details, photographer's information, or image descriptions, to understand the prevailing trends and stay one step ahead in your field. For any queries or concerns, our support team is at your service through live chat or you can also reach out to us at hello@oxylabs.io.
